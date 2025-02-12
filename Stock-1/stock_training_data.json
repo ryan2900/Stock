@@ -1,0 +1,14 @@
+[
+    {
+        "ticker": "AAPL",
+        "timestamp": "2025-02-06T00:13:24.258950",
+        "actual_price": 0.7193888425827026,
+        "predicted_price": 232.0095147914835
+    },
+    {
+        "ticker": "AAPL",
+        "timestamp": "2025-02-11T14:24:49.934258",
+        "actual_price": 0.7275380492210388,
+        "predicted_price": 233.53431418775563
+    }
+]
